@@ -1,6 +1,10 @@
 # lucene-sequence-diagram
 lucene搜索端uml时序图，lucene源码解析
 
+图比较大，看不清，可以下载【sd-search.svg】后再用浏览器打开
+
+使用starUML画图，可以下载【lucene.mdj】后打开，编辑
+
 # 前提
 只考虑最简单的查询，比如只对一个字段，用一个term去查,即TermQuery；然后索引也只有一个segment，简单的情况利于理解。
 
